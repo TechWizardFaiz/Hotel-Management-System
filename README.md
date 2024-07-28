@@ -28,5 +28,5 @@ This combination of technologies offers a powerful and flexible platform for man
 For any questions or feedback, feel free to reach out:
 
 - **Email:** [abdulfaizan1818@gmail.com](mailto:abdulfaizan1818@gmail.com)
-- **LinkedIn:** [Faizan Khan](https://www.linkedin.com/in/faizan-khan)
+- **LinkedIn:** [Faizan Khan](https://www.linkedin.com/in/faizan-khan-25120b233/)
 *User Access Control:** Different user roles with customizable access levels for staff and administrators to ensure secure operations.
